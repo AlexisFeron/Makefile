@@ -1,5 +1,5 @@
 # les fichiers sources
-SRC= tp9.c testtp9.c
+SRC= NOM_FICHIER.c testNOM_FICHIER.c
 
 #les fichiers objets : ils ont mêmes noms que les fichiers listés dans SRC
 OBJ= $(SRC:.c=.o)
